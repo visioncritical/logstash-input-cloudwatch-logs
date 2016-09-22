@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name            = 'logstash-input-cloudwatch_logs'
-  s.version         = '0.9.3'
+  s.version         = '0.9.2-a'
   s.licenses        = ['Apache License (2.0)']
   s.summary         = 'Stream events from CloudWatch Logs.'
   s.description     = %{EXPERIMENTAL build of Luke's plugin (brian.warsing@visioncritical.com)}
